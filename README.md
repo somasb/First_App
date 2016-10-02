@@ -1,2 +1,2 @@
 # First_App
-First android app
+First android app using Github repository and branch.
